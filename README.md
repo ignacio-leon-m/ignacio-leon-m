@@ -1,16 +1,16 @@
 <img src="header.png" />
 <br>
-- 🔭 I’m currently working on Spring boot projects.
+- 🔭 I’m currently working on Spring boot projects. I'm working on web applications and backend systems that bring ideas to life.
 <br>
-- 🌱 I’m currently learning Javascript and NodeJS in codeacademy.com
+- 🌱 Furthermore, my thirst for knowledge has led me to dive into the thrilling realm of JavaScript and Node.js through Codecademy.com.
 <br>
-- 👯 I’m looking to collaborate with all kind of web development projects
+- 👯 I’m looking to collaborate with all kind of web development projects. If you have an idea or project in mind, I'm eager to join and take it to the next level!
 <br>
-- 💬 Ask me about anything, I will help you if I know the answer.
+- 💬 If you have any questions, feel free to ask. I'm here to assist with whatever I can, and if I don't know the answer, we can explore and learn together.
 <br>
-- 📫 How to reach me: ifleon57@gmail.com or https://www.linkedin.com/in/ignacio-leon-morales/
+- 📫 How to reach me: ignacio.leon.dev@gmail.com or https://www.linkedin.com/in/ignacio-leon-morales/
 <br>
-- ⚡ Fun fact: I'm chilean, I'm looking for a job :D
+- ⚡ Lastly, in my professional life, I serve as a Functional Analyst at GeoVictoria. My role involves analyzing processes and systems to ensure everything runs efficiently.
 <br>
 - 🦾 Languages and skills
 
